@@ -1,0 +1,4 @@
+['Plan',{'In Stock','On Order', 'Commissioned', 'Committed'}] = N:
+  IF (  NUMBR (!Year) < NUMBR ( DB ('System Settings', 'Current Year', 'String') )
+    ,['Actual']
+    ,Continue );
