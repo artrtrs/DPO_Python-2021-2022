@@ -33,6 +33,23 @@
 8 занятие (02.10.2021)
 [HTML, парсинг информации из интернета, BeautifulSoup часть 2](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect8)
 
+9 занятие (05.10.2021)
+[Основы SQL, SQL-запросы в Python, Clickhouse](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect9)
+
+10 занятие (09.10.2021)
+[Управление браузером с помощью Selenium, обработка Excel-файлов с помощью Openpyxl](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect10)
+
+11 занятие (12.10.2021)
+[Классы в Python, Метод k ближайших соседей, постановка на расписание](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect11)
+
+12 занятие (16.10.2021)
+[Telegram-бот](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect12)
+
+______________________________________________________________________________________________________________________________________________________
+
+13 занятие (23.10.2021)
+[Telegram-бот: выкладка на Heroku. Numpy-массивы](https://github.com/pileyan/DPO_Python-2021-2022/tree/master/lect13)
+
 Формы контроля
 
 Всего на курсе запланировано 5 дз в блоке "Программирование на Python" (включая финальный проект. Он большой.) и 4 дз в блоке "Python для анализа данных".
@@ -41,7 +58,7 @@
 
 Ведомость с оценками
 
-[Здесь будет ссылка. Пока ее нет]()
+[Ведомость](https://docs.google.com/spreadsheets/d/1S7n_C0T6hX3DuIPcTIR-cJrcWtqz1fg6r6ft3IKOGzA/edit#gid=0)
 
 Куда сдавать задания и в какие сроки
 
@@ -54,6 +71,8 @@
 ДЗ3 - [сюда](https://www.dropbox.com/request/gwvxECLhG3jUGhvMyWmZ) срок 10.10.2021
 
 ДЗ4 - Зарегистрироваться на сайте sql-ex.ru, решить оттуда не менее 50 задач. Сдача простая - вы показываете мне 50 галочек о сданных задачах(очно или в телеграме). В идеале - из разных мест списка. срок 31.10.2021
+
+ДЗ5 - Telegram-бот. Сдача мне в Telegram :) срок 21.11.2021
 
 ДЗ6 - 
 
